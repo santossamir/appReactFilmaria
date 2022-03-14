@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/app-filmaria/static/css/main.7a55077a.css",
+    "main.js": "/app-filmaria/static/js/main.f16322f0.js",
+    "index.html": "/app-filmaria/index.html",
+    "main.7a55077a.css.map": "/app-filmaria/static/css/main.7a55077a.css.map",
+    "main.f16322f0.js.map": "/app-filmaria/static/js/main.f16322f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a55077a.css",
+    "static/js/main.f16322f0.js"
+  ]
+}
