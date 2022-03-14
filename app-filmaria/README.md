@@ -1,3 +1,19 @@
+# Sobre o Projeto
+Esse projeto foi desenvolvido em React JS, onde fizemos uso dos Hooks, consumimos API e utilizamos
+bibliotecas como toastify para aprimorar os alerts do app. 
+O projeto apresenta uma lista de filmes que, quando escolhidos no botão Acessar, redireciona o
+usuário para uma página que apresenta, além do título e foto de capa, sinopse e botões para salvá-lo
+numa lista de favoritos e assistir o trailer no Youtube. Na lista de fovoritos também é possível excluir
+o filme ou observar detalher dele.
+
+![Captura de tela de 2022-03-14 12-39-15](https://user-images.githubusercontent.com/88064533/158212832-64a9ce79-c85e-437e-b527-2f793efc17d3.png)
+![Captura de tela de 2022-03-14 12-42-55](https://user-images.githubusercontent.com/88064533/158212856-34ca0f93-1f1a-4fc3-be40-f7704c76e477.png)
+![Captura de tela de 2022-03-14 12-40-30](https://user-images.githubusercontent.com/88064533/158212886-b57b8912-37b4-4a46-9824-9fa95d610e11.png)
+![Captura de tela de 2022-03-14 13-06-51](https://user-images.githubusercontent.com/88064533/158213210-1b5d2b07-a415-402d-996d-215ee73bbdf1.png)
+
+
+ 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
