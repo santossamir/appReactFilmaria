@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/appReactFilmaria/tree/main/app-filmaria/static/css/main.7a55077a.css",
-    "main.js": "/appReactFilmaria/tree/main/app-filmaria/static/js/main.f16322f0.js",
-    "index.html": "/appReactFilmaria/tree/main/app-filmaria/index.html",
-    "main.7a55077a.css.map": "/appReactFilmaria/tree/main/app-filmaria/static/css/main.7a55077a.css.map",
-    "main.f16322f0.js.map": "/appReactFilmaria/tree/main/app-filmaria/static/js/main.f16322f0.js.map"
+    "main.css": "/appReactFilmaria/static/css/main.7a55077a.css",
+    "main.js": "/appReactFilmaria/static/js/main.f16322f0.js",
+    "index.html": "/appReactFilmaria/index.html",
+    "main.7a55077a.css.map": "/appReactFilmaria/static/css/main.7a55077a.css.map",
+    "main.f16322f0.js.map": "/appReactFilmaria/static/js/main.f16322f0.js.map"
   },
   "entrypoints": [
     "static/css/main.7a55077a.css",
